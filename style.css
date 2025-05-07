@@ -1,0 +1,34 @@
+body{
+    background-color:#d5e1ef ;
+
+}
+.container{
+    width:180px;
+    border: 1px solid #ffffff;
+    margin: 150px auto;
+    padding: 12px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    max-width: 500px;
+}
+
+h1{
+    font-size: 15px;
+    font-weight: bold;
+    width: fit-content;
+}
+
+p{
+    font-size: 12px;
+    font-weight: 300;
+    width: fit-content;
+}
+span{
+    padding-left: 20px;
+    font-weight: 20px;
+}
+
+img{
+    width: 180px;
+    border-radius: 10px;
+}
