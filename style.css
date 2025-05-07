@@ -22,10 +22,8 @@ p{
     font-size: 12px;
     font-weight: 300;
     width: fit-content;
-}
-span{
-    padding-left: 20px;
-    font-weight: 20px;
+    color: #a8abaf;
+    text-align: center;
 }
 
 img{
